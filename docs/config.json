@@ -2,10 +2,10 @@
   "config": [
     {
       "type": "link",
-      "slug": "test",
-      "title": "test",
-      "id": "dgj0x4qoh",
-      "children": []
+      "slug": "features",
+      "title": "Test",
+      "children": [],
+      "id": "cn3ycg2po"
     },
     {
       "type": "link",
